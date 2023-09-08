@@ -1,6 +1,6 @@
 # LogisticRegression
 
-Google Collab Link : https://colab.research.google.com/drive/1VuYWa5HoU1UlH6c8ft1jOmO_U2vYfkud?usp=sharing
+Google Colab Link : https://colab.research.google.com/drive/1VuYWa5HoU1UlH6c8ft1jOmO_U2vYfkud?usp=sharing
 
 -> We predicted whether a person can buy a new car released in the market based on their age and estimated salary . 
 
